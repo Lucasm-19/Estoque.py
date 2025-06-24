@@ -1,12 +1,4 @@
 # Estoque.py
-Sistema de Controle de Estoque com Python.
-
-Este projeto é um sistema de controle de estoque simples, desenvolvido em Python para uma loja de eletrônicos.
-O sistema permite adicionar, atualizar, excluir e visualizar produtos por meio de um menu interativo.
-
-Sistema de gerenciamento de estoque em Python 
-Arquivo: estoque.py
-
 
 estoque = {}
 
