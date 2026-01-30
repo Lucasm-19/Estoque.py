@@ -1,4 +1,4 @@
-===
+========
 SISTEMA DE CONTROLE DE ESTOQUE 
 
 estoque = {}
