@@ -89,6 +89,6 @@ def menu():
 
 
  INÍCIO DO SISTEMA
-=====================
+========
 menu()
 
