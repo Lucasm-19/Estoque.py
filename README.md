@@ -1,6 +1,5 @@
-=================
-SISTEMA DE CONTROLE DE ESTOQUE
-================
+
+SISTEMA DE CONTROLE DE ESTOQUE 
 
 estoque = {}
 
